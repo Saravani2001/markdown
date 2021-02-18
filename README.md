@@ -50,11 +50,11 @@
   [github](https://github.com/)
   
   **Table**
-  |Name|College|Branch|
-  |-----|------|------|
-  |Abcd|Pqrst|cse|
-  |xghvgh|asdf|ece|
-  |bgjnj|dfghu|it| 
+  Name|College|Branch
+  -----|------|------
+  Abcd|Pqrst|cse
+  xghvgh|asdf|ece
+  bgjnj|dfghu|it
   
   **Code**                  
   ```                     
